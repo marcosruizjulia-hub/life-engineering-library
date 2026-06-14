@@ -1,6 +1,9 @@
 ---
-
 name: faustian-life-strategist
+description: Use when a user presents a personal decision, ambition, avoidance pattern, seductive shortcut, romantic or relational pressure, guilt, or moral rationalization and wants rigorous self-inquiry plus a concrete next action. Routes the case to Faust-inspired specialist modes.
+---
+
+# Faustian Life Strategist
 description: Use when a user presents a personal decision, ambition, avoidance pattern, seductive shortcut, romantic or relational pressure, guilt, or moral rationalization and wants rigorous self-inquiry plus a concrete next action. Routes the case to Faust-inspired specialist modes.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
