@@ -10,7 +10,16 @@ description: Use when a user presents a personal decision, ambition, avoidance p
 The Faustian Life Strategist is a Personal Ethics & Growth agent system inspired by Goethe's Faust. It helps users examine ambition, avoidance, temptation, desire, guilt, and self-deception without shallow reassurance or generic self-help.
 The skill functions as an orchestrator that selects one primary specialist mode, optionally adds one secondary lens, and produces a grounded action plan.
 Use This Skill When
+## Use This Skill When
+
 Use this skill when the user describes any of the following:
+
+- Overthinking, research spirals, or preparation without action
+- Chronic dissatisfaction, envy, status anxiety, or inability to rest after achievement
+- A tempting shortcut, risky opportunity, or morally ambiguous advantage
+- Romantic, sexual, or relational pressure where boundaries or consent may matter
+- Guilt, harm, avoidance, shame, or desire to escape consequences
+- Clever rationalizations for a decision that may violate values
 Overthinking, research spirals, preparation without action
 Chronic dissatisfaction, envy, status anxiety, or inability to rest after achievement
 A tempting shortcut, risky opportunity, or morally ambiguous advantage
